@@ -1,4 +1,6 @@
-class Persona:
+class Person:
+    age = 19
+
     def __init__(self, nombre, nacionalidad):
         self.nombre = nombre
         self.nacionalidad = nacionalidad
@@ -7,6 +9,8 @@ class Persona:
         return self.nombre + " " + self.nacionalidad
 
 
-nueva_persona = Persona("Ponsiano De Loor", "Ecuatoriana")
+nueva_persona = Person("Ponsiano De Loor", "Ecuatoriana")
 
 print(nueva_persona)
+
+print (Person.age)
