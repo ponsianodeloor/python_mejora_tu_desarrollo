@@ -1,0 +1,31 @@
+1.- Este es la escuela
+2.- Este es el colegio de fisica y matematicas
+3.- Llegaste a la universidad felicidades
+4.- Conseguiste tu primer trabajo
+5.- Que has hecho el dinero desde tu primer trabajo
+6.- Trabajas tanto que no viajas
+7.- Viajaste que tal te fue
+8.- Cambiaste de trabajo siempre de jefe en la costa con el mismo sueldo 900
+9.- Trabajas ahora en el ministerio de agricultura
+10.- Conociste a Mireya Levy, Ajedrezista y Reina de Belleza
+11.- Ella renuncia y tu detras de ella
+12.- Luego de tener un hijo con ella, se vuelve posesiva y feminista
+13.- Ella trabaja en una ONG y tu te quedas sin trabajo
+14.- Vuelves a Bbhy como jefe y a estudiar una maestria en Seguridad Informatica
+15.- Al terminar la maestria tienes una deuda, una madre con medicinas de por vida y un hijo que mantener
+16.- El dinero no alcanza, empiezas a darle duro a proyectos relacionados con el catastro
+17.- Finalmente no te pagan por que existen inconformidades con tu metodologia
+18.- Algun tiempo atras creaste Med Calendar sin lograr una venta
+19.- Tambien creaste aplicaciones para facturacion electronica
+20.- Aprendiste IONIC, JAVA, Android Studio, Laravel
+21.- Aprendiste MVC que sirvio para crear aplicaciones en el GAD de Bbhy
+22.- El periodo municipal esta por terminar
+23.- Gana otra autoridad y tu contrato era muy probable de que no continuara
+24.- Extranias a Nauncho y el a ti tambien, tu mujer no soporta mas
+25.- Vuelves a Quito sin trabajo
+26.- Logras entrar al sercop (Sistema nacional de compras publicas)
+27.- Empiezas a crear Valor junto con Eduardo, Viviana y Jhair
+28.- La directora felicita su trabajo
+29.- El tiempo es una limitante
+30.- Keycloak no funciona al guardar usuarios con Mayus y Minus
+31.- El desafio es lograr que todo funcione Java, Laravel y Fastapi
